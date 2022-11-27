@@ -1,0 +1,6 @@
+201904060103 CollegeMath2 4 Maincourse MechanicalEngineering 100
+201904060103 CollegeMath1 5 Maincourse MechanicalEngineering 60
+201904060103 MarsTheory 3 Maincourse MechanicalEngineering 70
+201904060104 CollegeMath2 4 Maincourse Art 100
+201904060104 CollegeMath1 100
+201904060104 Chinese 5 Corecourse Art 100

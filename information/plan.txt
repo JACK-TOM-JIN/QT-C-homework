@@ -1,0 +1,4 @@
+MechanicalEngineering Maincourse 30
+MechanicalEngineering Corecourse 20
+Art Maincourse 30
+Art Corecourse 20
